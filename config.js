@@ -39,10 +39,6 @@ const config = {
         "alt": "Smiling kids and parents enjoying dinner at the stadium"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/ndh2tnk85xrmc0cqshhbkr0xdg.jpg",
-        "alt": "Stadium view from exclusive BMO Club area"
-      },
-      {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/7spym7xnm1rma0cqshhaj42mcg.jpg",
         "alt": "Excited families watching live soccer action together"
       }
@@ -50,28 +46,20 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-ticket-alt",
-        "text": "Four field level tickets to see Toronto FC live"
-      },
-      {
-        "icon": "fas fa-utensils",
-        "text": "Full dinner for your whole group"
-      },
-      {
-        "icon": "fas fa-crown",
-        "text": "VIP BMO Club access \u0013 relax and enjoy the game"
+        "text": "Four level tickets to see Toronto FC live"
       },
       {
         "icon": "fas fa-users",
-        "text": "Perfect fun for young families"
+        "text": "Perfect fun for families"
       },
       {
         "icon": "fas fa-star",
-        "text": "$1,200 total value \u0013 all included!"
+        "text": "Premium field-level seats!"
       }
     ],
-    "name": "TFC Family VIP Soccer Experience",
+    "name": "Toronto FC Family VIP Soccer Experience",
     "value": "$1,200+ Value",
-    "description": "Imagine cheering with your family right next to the field as Toronto FC scores! Enjoy an exciting soccer match with the best seats, a tasty dinner, and private BMO Club access. No high costs or stress \u0013 just fun, food, and soccer for everyone. This all-in-one VIP day is the perfect memory for your family.",
+    "description": "Imagine cheering with your family right next to the field as Toronto FC scores! Enjoy an exciting soccer match with the best seats. No high costs or stress just fun, food, and soccer for everyone. This VIP day is the perfect memory for your family.",
     "limitedTimeOfferText": "Summer Soccer Giveaway \u0013 Entry Ends Soon!",
     "ctaButtonText": "I Want This Soccer Day!"
   },
@@ -157,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751563681983_0",
+      "id": "q_auto_1751563793508_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -179,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751563681983_1",
+      "id": "q_auto_1751563793508_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -201,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751563681983_2",
+      "id": "q_auto_1751563793508_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -223,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751563681983_3",
+      "id": "q_auto_1751563793508_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
