@@ -1,11 +1,11 @@
 const config = {
   "meta": {
-    "pageTitle": "Win 4 Toronto FC Field Level Tickets $1,200 Family Giveaway!",
+    "pageTitle": "Win 4 Toronto FC Field Level Tickets ",
     "navBrandLogoText": "Anthony Caputo",
     "privacyPolicyLink": "https://blog.remax.ca/privacy-notice/?_gl=1*1qf8zsj*_gcl_au*NDA3NDA5OTY4LjE3NTA5NjM0OTc.*_ga*MTU0NTMyMTQzOS4xNzUwOTYzNDk1*_ga_1K2F9Z3PBF*czE3NTE1NjM5MzIkbzEkZzAkdDE3NTE1NjM5NDAkajUyJGwwJGgxOTQ3ODI5ODgz"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>4 Toronto FC Field Level Tickets</span> for the Family!",
+    "heroHeadline": "Win <span class='highlight'>4 Toronto FC Field Level Tickets</span> $1,500 Family Giveaway! ",
     "heroSubheadline": "Give your family an amazing day at the stadium watch Toronto FC up close, enjoy family time with Premium seats. This experience could be yours. Hurry \u0013entry closes July 7!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/k3kkwpmxcsrm80cqshgv2tq5k8.jpg",
     "promotionDates": "Enter July 4 to July 7, 2025. Winner drawn July 7.",
@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751564853843_0",
+      "id": "q_auto_1751565325514_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564853843_1",
+      "id": "q_auto_1751565325514_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564853843_2",
+      "id": "q_auto_1751565325514_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564853843_3",
+      "id": "q_auto_1751565325514_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
