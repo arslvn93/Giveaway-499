@@ -25,7 +25,7 @@ const config = {
     "ghlWebhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
+    "followUpBossEmail": "anthony.caputo.real.estate@followupboss.me",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751564669067_0",
+      "id": "q_auto_1751564809648_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564669067_1",
+      "id": "q_auto_1751564809648_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564669067_2",
+      "id": "q_auto_1751564809648_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564669067_3",
+      "id": "q_auto_1751564809648_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
