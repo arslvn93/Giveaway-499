@@ -112,7 +112,7 @@ const config = {
       },
       {
         "q": "What is included in the prize?",
-        "a": "You get 4 Toronto FC field level tickets. No extra costs!"
+        "a": "You get 4 Toronto FC field level tickets $1,500+ value. No extra costs!"
       },
       {
         "q": "Can I enter on behalf of another family?",
@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751565334623_0",
+      "id": "q_auto_1751565363240_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565334623_1",
+      "id": "q_auto_1751565363240_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565334623_2",
+      "id": "q_auto_1751565363240_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565334623_3",
+      "id": "q_auto_1751565363240_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
