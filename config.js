@@ -1,63 +1,34 @@
 const config = {
-  "modalQuestions": [
-    {
-      "id": "weekend_preferences",
-      "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
-      "options": [
-        { "value": "attending_sporting_events", "text": "Attending sporting events like soccer games" },
-        { "value": "visiting_local_attractions", "text": "Visiting local attractions or parks" },
-        { "value": "family_movie_game_nights", "text": "Staying in for family movie/game nights" },
-        { "value": "traveling_short_getaways", "text": "Traveling out of town for short getaways" }
-      ]
-    },
-    {
-      "id": "home_feature_priorities",
-      "questionText": "When considering features in a new home, which of the following is most important to you?",
-      "options": [
-        { "value": "proximity_to_schools", "text": "Proximity to top schools and community centers" },
-        { "value": "access_to_sports_venues", "text": "Access to vibrant local sports and entertainment venues" },
-        { "value": "spacious_backyard", "text": "A home with a spacious backyard for family activities" },
-        { "value": "dining_and_shopping_nearby", "text": "High-quality dining and shopping nearby" }
-      ]
-    },
-    {
-      "id": "current_living_situation",
-      "questionText": "How would you describe your current living situation?",
-      "options": [
-        { "value": "own_consider_move", "text": "Own a home, but considering a move in the near future" },
-        { "value": "rent_exploring_homeownership", "text": "Renting and exploring homeownership opportunities" },
-        { "value": "recently_bought_loving", "text": "Recently bought a home and loving the experience" },
-        { "value": "content_open_opportunities", "text": "Content with current home, but open to opportunities" }
-      ]
-    },
-    {
-      "id": "environment_for_raising_family",
-      "questionText": "What do you consider an ideal environment for raising a family?",
-      "options": [
-        { "value": "community_with_schools_activities", "text": "A community with great schools and family activities" },
-        { "value": "access_to_cultural_sporting_events", "text": "Access to cultural and sporting events throughout the year" },
-        { "value": "quiet_suburbs_nature", "text": "Quiet suburbs with plenty of nature and outdoor spaces" },
-        { "value": "urban_living_convenience_connectivity", "text": "Urban living with a blend of convenience and connectivity" }
-      ]
-    }
-  ],
+  "meta": {
+    "pageTitle": "Win 4 Toronto FC Field Level Tickets $1,200 Family Giveaway!",
+    "navBrandLogoText": "Anthony Caputo",
+    "privacyPolicyLink": ""
+  },
   "giveaway": {
-    "name": "TFC VIP Family Soccer Experience",
-    "heroHeadline": "Win <span class='highlight'>4 TFC Field Level Tickets</span> with Dinner for the Family!",
-    "heroSubheadline": "Give your family an amazing day at the stadium  watch Toronto FC up close, enjoy dinner, and relax in the BMO Club. This $1,200 experience could be yours. Hurry  entry closes July 7!",
-    "promotionDates": "Enter July 4 to July 7, 2025. Winner drawn July 7.",
-    "endDate": "2025-07-07T23:59:59",
+    "heroHeadline": "Win <span class='highlight'>4 Toronto FC Field Level Tickets</span> for the Family!",
+    "heroSubheadline": "Give your family an amazing day at the stadium watch Toronto FC up close, enjoy family time with Premium seats. This experience could be yours. Hurry \u0013entry closes July 7!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/k3kkwpmxcsrm80cqshgv2tq5k8.jpg",
+    "promotionDates": "Enter July 4 to July 7, 2025. Winner drawn July 7.",
+    "endDate": "2025-07-08T06:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Family Now!",
-    "successModalHeaderText": "Youre In the Game!",
-    "successModalMainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 7, and well email you if you win. Good luck to your family!",
-    "successModalEmailPrompt": "Stay tuned to your email on July 7  thats when we announce our lucky winner!"
+    "name": "TFC VIP Family Soccer Experience",
+    "successModalHeaderText": "You\u0019re In the Game!",
+    "successModalMainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 7, and we\u0019ll email you if you win. Good luck to your family!",
+    "successModalEmailPrompt": "Stay tuned to your email on July 7 \u0013 that\u0019s when we announce our lucky winner!"
+  },
+  "settings": {
+    "confettiColors": [],
+    "showCountdownInHero": true,
+    "theme": "dark",
+    "primaryColorOverride": "",
+    "ghlWebhookUrl": "",
+    "facebookPixelId": "1057475448873422",
+    "salesGeniusAppApi": "",
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
-    "name": "TFC Family VIP Soccer Experience",
-    "value": "$1,200+ Value",
-    "description": "Imagine cheering with your family right next to the field as Toronto FC scores! Enjoy an exciting soccer match with the best seats, a tasty dinner, and private BMO Club access. No high costs or stress  just fun, food, and soccer for everyone. This all-in-one VIP day is the perfect memory for your family.",
     "images": [
       {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/5ckzrdq4q1rme0cqshgs2x7cgm.jpg",
@@ -77,13 +48,31 @@ const config = {
       }
     ],
     "includedItems": [
-      { "icon": "fas fa-ticket-alt", "text": "Four field level tickets to see Toronto FC live" },
-      { "icon": "fas fa-utensils", "text": "Full dinner for your whole group" },
-      { "icon": "fas fa-crown", "text": "VIP BMO Club access  relax and enjoy the game" },
-      { "icon": "fas fa-users", "text": "Perfect fun for young families" },
-      { "icon": "fas fa-star", "text": "$1,200 total value  all included!" }
+      {
+        "icon": "fas fa-ticket-alt",
+        "text": "Four field level tickets to see Toronto FC live"
+      },
+      {
+        "icon": "fas fa-utensils",
+        "text": "Full dinner for your whole group"
+      },
+      {
+        "icon": "fas fa-crown",
+        "text": "VIP BMO Club access \u0013 relax and enjoy the game"
+      },
+      {
+        "icon": "fas fa-users",
+        "text": "Perfect fun for young families"
+      },
+      {
+        "icon": "fas fa-star",
+        "text": "$1,200 total value \u0013 all included!"
+      }
     ],
-    "limitedTimeOfferText": "Summer Soccer Giveaway  Entry Ends Soon!",
+    "name": "TFC Family VIP Soccer Experience",
+    "value": "$1,200+ Value",
+    "description": "Imagine cheering with your family right next to the field as Toronto FC scores! Enjoy an exciting soccer match with the best seats, a tasty dinner, and private BMO Club access. No high costs or stress \u0013 just fun, food, and soccer for everyone. This all-in-one VIP day is the perfect memory for your family.",
+    "limitedTimeOfferText": "Summer Soccer Giveaway \u0013 Entry Ends Soon!",
     "ctaButtonText": "I Want This Soccer Day!"
   },
   "howToEnter": {
@@ -105,31 +94,25 @@ const config = {
       }
     ],
     "highlights": [
-      { "icon": "fas fa-gift", "text": "Completely free to enter" },
-      { "icon": "fas fa-clock", "text": "Entry takes less than 30 seconds" },
-      { "icon": "fas fa-users", "text": "Perfect for young families" },
-      { "icon": "fas fa-random", "text": "Random & fair winner selection" }
+      {
+        "icon": "fas fa-gift",
+        "text": "Completely free to enter"
+      },
+      {
+        "icon": "fas fa-clock",
+        "text": "Entry takes less than 30 seconds"
+      },
+      {
+        "icon": "fas fa-users",
+        "text": "Perfect for young families"
+      },
+      {
+        "icon": "fas fa-random",
+        "text": "Random & fair winner selection"
+      }
     ]
   },
-  "entryForm": {
-    "subtitle": "Enter your details below for a chance at this VIP soccer day for your family!",
-    "entryCountText": "Many families across Toronto have already entered  dont wait and miss your chance!",
-    "socialSharePrompt": "Know another family whod love this? Share this giveaway with them:",
-    "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href),
-      "twitter": "https://twitter.com/intent/tweet?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent("Win 4 TFC Field Level Tickets + Dinner – Enter the giveaway now!")
-    },
-    "entryFormCtaText": "Enter My Family Now!"
-  },
   "rules": {
-    "fairSelectionInfo": {
-      "title": "Random Winner Selection",
-      "text": "Every entry has an equal shot. Winner is picked at random after the entry period closes  no tricks, just fun and fairness!"
-    },
-    "importantNotice": {
-      "title": "Dont Miss Your Chance!",
-      "text": "The winner will get an email from Anthony Caputo after the draw on July 7. Check your inbox and spam so you dont miss our message!"
-    },
     "faq": [
       {
         "q": "Who can enter this giveaway?",
@@ -141,7 +124,7 @@ const config = {
       },
       {
         "q": "What is included in the prize?",
-        "a": "You get 4 Toronto FC field level tickets, dinner for your family, and special access to the BMO Club. Its all included  no extra costs!"
+        "a": "You get 4 Toronto FC field level tickets, dinner for your family, and special access to the BMO Club. It\u0019s all included \u0013 no extra costs!"
       },
       {
         "q": "Can I enter on behalf of another family?",
@@ -153,17 +136,128 @@ const config = {
       "Add acaputorealty@gmail.com to your contacts so you get any winner emails",
       "Tell your friends with kids about this giveaway so their family can enter too",
       "Think about your kids' favorite Toronto outing when answering our questions!"
-    ]
+    ],
+    "fairSelectionInfo": {
+      "title": "Random Winner Selection",
+      "text": "Every entry has an equal shot. Winner is picked at random after the entry period closes \u0013 no tricks, just fun and fairness!"
+    },
+    "importantNotice": {
+      "title": "Don\u0019t Miss Your Chance!",
+      "text": "The winner will get an email from Anthony Caputo after the draw on July 7. Check your inbox and spam so you don\u0019t miss our message!"
+    }
+  },
+  "entryForm": {
+    "sharePlatforms": {
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-499.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-499.netlify.app%2Fadmin&text=Win%204%20TFC%20Field%20Level%20Tickets%20%2B%20Dinner%20%E2%80%93%20Enter%20the%20giveaway%20now!"
+    },
+    "subtitle": "Enter your details below for a chance at this VIP soccer day for your family!",
+    "entryCountText": "Many families across Toronto have already entered \u0013 don\u0019t wait and miss your chance!",
+    "socialSharePrompt": "Know another family who\u0019d love this? Share this giveaway with them:"
+  },
+  "modalQuestions": [
+    {
+      "id": "q_auto_1751563681983_0",
+      "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
+      "options": [
+        {
+          "value": "Attending sporting events like soccer games",
+          "text": "Attending sporting events like soccer games"
+        },
+        {
+          "value": "Visiting local attractions or parks",
+          "text": "Visiting local attractions or parks"
+        },
+        {
+          "value": "Staying in for family movie/game nights",
+          "text": "Staying in for family movie/game nights"
+        },
+        {
+          "value": "Traveling out of town for short getaways",
+          "text": "Traveling out of town for short getaways"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1751563681983_1",
+      "questionText": "When considering features in a new home, which of the following is most important to you?",
+      "options": [
+        {
+          "value": "Proximity to top schools and community centers",
+          "text": "Proximity to top schools and community centers"
+        },
+        {
+          "value": "Access to vibrant local sports and entertainment venues",
+          "text": "Access to vibrant local sports and entertainment venues"
+        },
+        {
+          "value": "A home with a spacious backyard for family activities",
+          "text": "A home with a spacious backyard for family activities"
+        },
+        {
+          "value": "High-quality dining and shopping nearby",
+          "text": "High-quality dining and shopping nearby"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1751563681983_2",
+      "questionText": "How would you describe your current living situation?",
+      "options": [
+        {
+          "value": "Own a home, but considering a move in the near future",
+          "text": "Own a home, but considering a move in the near future"
+        },
+        {
+          "value": "Renting and exploring homeownership opportunities",
+          "text": "Renting and exploring homeownership opportunities"
+        },
+        {
+          "value": "Recently bought a home and loving the experience",
+          "text": "Recently bought a home and loving the experience"
+        },
+        {
+          "value": "Content with current home, but open to opportunities",
+          "text": "Content with current home, but open to opportunities"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1751563681983_3",
+      "questionText": "What do you consider an ideal environment for raising a family?",
+      "options": [
+        {
+          "value": "A community with great schools and family activities",
+          "text": "A community with great schools and family activities"
+        },
+        {
+          "value": "Access to cultural and sporting events throughout the year",
+          "text": "Access to cultural and sporting events throughout the year"
+        },
+        {
+          "value": "Quiet suburbs with plenty of nature and outdoor spaces",
+          "text": "Quiet suburbs with plenty of nature and outdoor spaces"
+        },
+        {
+          "value": "Urban living with a blend of convenience and connectivity",
+          "text": "Urban living with a blend of convenience and connectivity"
+        }
+      ]
+    }
+  ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You\u0019re In the Game!",
+    "mainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 7, and we\u0019ll email you if you win. Good luck to your family!",
+    "socialPromptText": "Stay tuned to your email on July 7 \u0013 that\u0019s when we announce our lucky winner!"
   },
   "footerContact": {
-    "organizerName": "Anthony Caputo",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "",
-    "email": "acaputorealty@gmail.com",
-    "phone": "416-938-7771",
-    "address": "",
-    "brokerageName": "",
     "social": {
       "facebook": "https://www.facebook.com/share/1DrMVdUjLo/?mibextid=wwXIfr",
       "instagram": "https://instagram.com/NA"
@@ -174,32 +268,22 @@ const config = {
       "phone": "416-938-7771",
       "email": "acaputorealty@gmail.com"
     },
-    "copyrightOwner": "Anthony Caputo",
-    "footerDisclaimer": "This giveaway is not sponsored by or affiliated with Toronto FC or BMO Field. Winner will be selected randomly from all eligible entries received by July 7, 2025. Must be 18+ to enter."
-  },
-  "meta": {
-    "pageTitle": "Win 4 TFC Field Level Tickets + Dinner  $1,200 Family Giveaway!",
-    "navBrandLogoText": "Anthony Caputo",
-    "privacyPolicyLink": ""
-  },
-  "settings": {
-    "theme": "dark",
-    "primaryColorOverride": "",
-    "showCountdownInHero": true,
-    "facebookPixelId": "1057475448873422",
-    "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "Youre In the Game!",
-    "mainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 7, and well email you if you win. Good luck to your family!",
-    "socialPromptText": "Stay tuned to your email on July 7  thats when we announce our lucky winner!"
+    "footerDisclaimer": "This giveaway is not sponsored by or affiliated with Toronto FC or BMO Field. Winner will be selected randomly from all eligible entries received by July 7, 2025. Must be 18+ to enter.",
+    "organizerLogoUrl": "",
+    "secondaryLogoUrl": "",
+    "secondaryLogoAlt": "",
+    "organizerName": "Anthony Caputo",
+    "brokerageName": "",
+    "address": "",
+    "email": "acaputorealty@gmail.com",
+    "phone": "416-938-7771",
+    "copyrightOwner": "Anthony Caputo"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-499",
     "repoUrl": "https://github.com/arslvn93/Giveaway-499",
     "netlifyUrl": "http://Giveaway-499.netlify.app",
-    "netlifyId": "1012695762"
+    "netlifyId": "1012695762",
+    "tag": ""
   }
 };
