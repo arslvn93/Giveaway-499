@@ -21,7 +21,7 @@ const config = {
     "confettiColors": [],
     "showCountdownInHero": true,
     "theme": "light",
-    "primaryColorOverride": "",
+    "primaryColorOverride": "#b61619",
     "ghlWebhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751565399552_0",
+      "id": "q_auto_1751565480003_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565399552_1",
+      "id": "q_auto_1751565480003_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565399552_2",
+      "id": "q_auto_1751565480003_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565399552_3",
+      "id": "q_auto_1751565480003_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
