@@ -46,11 +46,11 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-ticket-alt",
-        "text": "Four level tickets to see Toronto FC live"
+        "text": "Four tickets to see Toronto FC live"
       },
       {
         "icon": "fas fa-users",
-        "text": "Perfect fun for families"
+        "text": "Perfect for families"
       },
       {
         "icon": "fas fa-star",
@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751564047353_0",
+      "id": "q_auto_1751564353839_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564047353_1",
+      "id": "q_auto_1751564353839_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564047353_2",
+      "id": "q_auto_1751564353839_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564047353_3",
+      "id": "q_auto_1751564353839_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
