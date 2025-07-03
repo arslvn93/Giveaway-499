@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751564811912_0",
+      "id": "q_auto_1751564853843_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564811912_1",
+      "id": "q_auto_1751564853843_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564811912_2",
+      "id": "q_auto_1751564853843_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751564811912_3",
+      "id": "q_auto_1751564853843_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
@@ -252,9 +252,9 @@ const config = {
     },
     "agentContact": {
       "name": "Anthony Caputo",
-      "title": "Real Estate Agent",
+      "title": "Team Leader & Realtor",
       "phone": "416-938-7771",
-      "email": "acaputorealty@gmail.com"
+      "email": "anthony@thecaputogroup.ca"
     },
     "footerDisclaimer": "This giveaway is not sponsored by or affiliated with Toronto FC or BMO Field. Winner will be selected randomly from all eligible entries received by July 7, 2025. Must be 18+ to enter.",
     "organizerLogoUrl": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/480070380_1381671406492908_2989011623697879901_n.jpg?stp=dst-jpg_tt6&cstp=mx1230x693&ctp=s1230x693&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oPPOZX6nGHkQ7kNvwETAAO8&_nc_oc=AdlI4JZLVOU5uQw1MLHXtkoiZaSFataBp0Gc-eVLPTZE4kkyr17X6f2OwS8wZZqJGkg&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=o412f13POOukzZJrZpB0CQ&oh=00_AfMl216Im8LAI7AGQO2lzabbArpYi2fe1Okqk5GsAF0kSA&oe=686CA20C",
@@ -263,7 +263,7 @@ const config = {
     "organizerName": "Anthony Caputo",
     "brokerageName": "RE/MAX House of Real Estate",
     "address": "96 Rexdale Blvd, Toronto, ON M9W 1N7",
-    "email": "acaputorealty@gmail.com",
+    "email": "anthony@thecaputogroup.ca",
     "phone": "416-938-7771",
     "copyrightOwner": "Anthony Caputo"
   },
