@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751565383531_0",
+      "id": "q_auto_1751565398805_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565383531_1",
+      "id": "q_auto_1751565398805_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565383531_2",
+      "id": "q_auto_1751565398805_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565383531_3",
+      "id": "q_auto_1751565398805_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
@@ -241,7 +241,7 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You\u0019re In the Game!",
+    "headerText": "You\u0019re In the Game for $1,500+ Tickets!",
     "mainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 7, and we\u0019ll email you if you win. Good luck to your family!",
     "socialPromptText": "Stay tuned to your email on July 7 \u0013 that\u0019s when we announce our lucky winner!"
   },
