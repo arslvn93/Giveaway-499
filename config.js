@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win 4 Toronto FC Field Level Tickets $1,200 Family Giveaway!",
     "navBrandLogoText": "Anthony Caputo",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://blog.remax.ca/privacy-notice/?_gl=1*1qf8zsj*_gcl_au*NDA3NDA5OTY4LjE3NTA5NjM0OTc.*_ga*MTU0NTMyMTQzOS4xNzUwOTYzNDk1*_ga_1K2F9Z3PBF*czE3NTE1NjM5MzIkbzEkZzAkdDE3NTE1NjM5NDAkajUyJGwwJGgxOTQ3ODI5ODgz"
   },
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>4 Toronto FC Field Level Tickets</span> for the Family!",
@@ -140,12 +140,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-499.netlify.app%2Fadmin&text=Win%204%20TFC%20Field%20Level%20Tickets%20%2B%20Dinner%20%E2%80%93%20Enter%20the%20giveaway%20now!"
     },
     "subtitle": "Enter your details below for a chance at this VIP soccer day for your family!",
-    "entryCountText": "Many families across Toronto have already entered \u0013 don\u0019t wait and miss your chance!",
+    "entryCountText": "Many families across Toronto have already entered \u0013don\u0019t wait and miss your chance!",
     "socialSharePrompt": "Know another family who\u0019d love this? Share this giveaway with them:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751563838614_0",
+      "id": "q_auto_1751564033586_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751563838614_1",
+      "id": "q_auto_1751564033586_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751563838614_2",
+      "id": "q_auto_1751564033586_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751563838614_3",
+      "id": "q_auto_1751564033586_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
@@ -247,22 +247,22 @@ const config = {
   },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/share/1DrMVdUjLo/?mibextid=wwXIfr",
-      "instagram": "https://instagram.com/NA"
+      "facebook": "https://www.facebook.com/thecaputogrouprealestate",
+      "instagram": "https://www.instagram.com/thecaputogroup.realestate/?hl=en"
     },
     "agentContact": {
       "name": "Anthony Caputo",
-      "title": "",
+      "title": "Real Estate Agent",
       "phone": "416-938-7771",
       "email": "acaputorealty@gmail.com"
     },
     "footerDisclaimer": "This giveaway is not sponsored by or affiliated with Toronto FC or BMO Field. Winner will be selected randomly from all eligible entries received by July 7, 2025. Must be 18+ to enter.",
-    "organizerLogoUrl": "",
+    "organizerLogoUrl": "https://images.seeklogo.com/logo-png/32/2/remax-logo-png_seeklogo-328735.png",
     "secondaryLogoUrl": "",
     "secondaryLogoAlt": "",
     "organizerName": "Anthony Caputo",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "RE/MAX House of Real Estate",
+    "address": "96 Rexdale Blvd, Toronto, ON M9W 1N7",
     "email": "acaputorealty@gmail.com",
     "phone": "416-938-7771",
     "copyrightOwner": "Anthony Caputo"
