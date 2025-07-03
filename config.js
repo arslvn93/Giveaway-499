@@ -13,9 +13,9 @@ const config = {
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Family Now!",
     "name": "TFC VIP Family Soccer Experience",
-    "successModalHeaderText": "You\u0019re In the Game!",
+    "successModalHeaderText": "You're In the Game!",
     "successModalMainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 7, and we\u0019ll email you if you win. Good luck to your family!",
-    "successModalEmailPrompt": "Stay tuned to your email on July 7 \u0013 that\u0019s when we announce our lucky winner!"
+    "successModalEmailPrompt": "Stay tuned to your email on July 7  that's when we announce our lucky winner!"
   },
   "settings": {
     "confettiColors": [],
@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751565363240_0",
+      "id": "q_auto_1751565381088_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565363240_1",
+      "id": "q_auto_1751565381088_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565363240_2",
+      "id": "q_auto_1751565381088_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751565363240_3",
+      "id": "q_auto_1751565381088_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
