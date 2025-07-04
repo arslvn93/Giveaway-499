@@ -149,7 +149,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751664837821_0",
+      "id": "q_auto_1751664938083_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751664837821_1",
+      "id": "q_auto_1751664938083_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751664837821_2",
+      "id": "q_auto_1751664938083_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,6 +211,28 @@ const config = {
         {
           "value": "I’m actively looking to buy or sell now",
           "text": "I’m actively looking to buy or sell now"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1751664938083_3",
+      "questionText": "Is your mortgage up for renewal in the next:",
+      "options": [
+        {
+          "value": "1–2 years",
+          "text": "1–2 years"
+        },
+        {
+          "value": "3–5 years",
+          "text": "3–5 years"
+        },
+        {
+          "value": "5+ years",
+          "text": "5+ years"
+        },
+        {
+          "value": "Not sure",
+          "text": "Not sure"
         }
       ]
     }
