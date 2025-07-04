@@ -64,7 +64,7 @@ const config = {
     "name": "Toronto FC Family VIP Soccer Experience",
     "value": "$1,500+ Value",
     "description": "Imagine cheering with your family right next to the field as Toronto FC scores vs Columbus Crew! Enjoy an exciting soccer match with the best seats. No high costs or stress just fun, food, and soccer for everyone. This VIP day is the perfect memory for your family on August 16, 2025 at 7:30 PM.",
-    "limitedTimeOfferText": "Summer Soccer Giveaway \u0013 Entry Ends Soon!",
+    "limitedTimeOfferText": "Summer Soccer Giveaway  Entry Ends Soon!",
     "ctaButtonText": "I Want This Soccer Day!"
   },
   "howToEnter": {
@@ -149,7 +149,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751663808463_0",
+      "id": "q_auto_1751663856147_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751663808463_1",
+      "id": "q_auto_1751663856147_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751663808463_2",
+      "id": "q_auto_1751663856147_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -215,7 +215,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751663808464_3",
+      "id": "q_auto_1751663856147_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
@@ -237,7 +237,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751663808464_4",
+      "id": "q_auto_1751663856147_4",
       "questionText": "Is your mortgage up for renewal in the next:",
       "options": [
         {
