@@ -145,7 +145,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751644423734_0",
+      "id": "q_auto_1751644480865_0",
       "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
       "options": [
         {
@@ -167,7 +167,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751644423734_1",
+      "id": "q_auto_1751644480865_1",
       "questionText": "When considering features in a new home, which of the following is most important to you?",
       "options": [
         {
@@ -189,7 +189,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751644423734_2",
+      "id": "q_auto_1751644480865_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751644423734_3",
+      "id": "q_auto_1751644480865_3",
       "questionText": "What do you consider an ideal environment for raising a family?",
       "options": [
         {
@@ -229,6 +229,28 @@ const config = {
         {
           "value": "Urban living with a blend of convenience and connectivity",
           "text": "Urban living with a blend of convenience and connectivity"
+        }
+      ]
+    },
+    {
+      "id": "q_auto_1751644480865_4",
+      "questionText": "Is your mortgage up for renewal in the next:",
+      "options": [
+        {
+          "value": "1–2 years",
+          "text": "1–2 years"
+        },
+        {
+          "value": "3–5 years",
+          "text": "3–5 years"
+        },
+        {
+          "value": "5+ years",
+          "text": "5+ years"
+        },
+        {
+          "value": "Not sure",
+          "text": "Not sure"
         }
       ]
     }
