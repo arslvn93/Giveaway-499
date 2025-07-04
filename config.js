@@ -149,112 +149,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751663856147_0",
-      "questionText": "What type of activities do you and your family typically enjoy during a weekend?",
+      "id": "q_auto_1751664613772_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Attending sporting events like soccer games",
-          "text": "Attending sporting events like soccer games"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Visiting local attractions or parks",
-          "text": "Visiting local attractions or parks"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Staying in for family movie/game nights",
-          "text": "Staying in for family movie/game nights"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Traveling out of town for short getaways",
-          "text": "Traveling out of town for short getaways"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1751663856147_1",
-      "questionText": "When considering features in a new home, which of the following is most important to you?",
+      "id": "q_auto_1751664613773_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Proximity to top schools and community centers",
-          "text": "Proximity to top schools and community centers"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Access to vibrant local sports and entertainment venues",
-          "text": "Access to vibrant local sports and entertainment venues"
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
         },
         {
-          "value": "A home with a spacious backyard for family activities",
-          "text": "A home with a spacious backyard for family activities"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "High-quality dining and shopping nearby",
-          "text": "High-quality dining and shopping nearby"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1751663856147_2",
+      "id": "q_auto_1751664613773_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
-          "value": "Own a home, but considering a move in the near future",
-          "text": "Own a home, but considering a move in the near future"
+          "value": "I don't own a home and am interested in buying",
+          "text": "I don't own a home and am interested in buying"
         },
         {
-          "value": "Renting and exploring homeownership opportunities",
-          "text": "Renting and exploring homeownership opportunities"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Recently bought a home and loving the experience",
-          "text": "Recently bought a home and loving the experience"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Content with current home, but open to opportunities",
-          "text": "Content with current home, but open to opportunities"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1751663856147_3",
-      "questionText": "What do you consider an ideal environment for raising a family?",
-      "options": [
-        {
-          "value": "A community with great schools and family activities",
-          "text": "A community with great schools and family activities"
-        },
-        {
-          "value": "Access to cultural and sporting events throughout the year",
-          "text": "Access to cultural and sporting events throughout the year"
-        },
-        {
-          "value": "Quiet suburbs with plenty of nature and outdoor spaces",
-          "text": "Quiet suburbs with plenty of nature and outdoor spaces"
-        },
-        {
-          "value": "Urban living with a blend of convenience and connectivity",
-          "text": "Urban living with a blend of convenience and connectivity"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1751663856147_4",
-      "questionText": "Is your mortgage up for renewal in the next:",
-      "options": [
-        {
-          "value": "1–2 years",
-          "text": "1–2 years"
-        },
-        {
-          "value": "3–5 years",
-          "text": "3–5 years"
-        },
-        {
-          "value": "5+ years",
-          "text": "5+ years"
-        },
-        {
-          "value": "Not sure",
-          "text": "Not sure"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
