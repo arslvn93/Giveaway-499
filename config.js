@@ -149,7 +149,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751993417910_0",
+      "id": "q_auto_1751993430255_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993417910_1",
+      "id": "q_auto_1751993430255_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993417910_2",
+      "id": "q_auto_1751993430255_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -215,7 +215,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993417910_3",
+      "id": "q_auto_1751993430255_3",
       "questionText": "Is your mortgage up for renewal in the next:",
       "options": [
         {
@@ -260,7 +260,7 @@ const config = {
       "phone": "416-938-7771",
       "email": "anthony@thecaputogroup.ca"
     },
-    "footerDisclaimer": "This giveaway is not sponsored by or affiliated with Toronto FC or BMO Field. Winner will be selected randomly from all eligible entries received by July 7, 2025. Must be 18+ to enter.",
+    "footerDisclaimer": "This giveaway is not sponsored by or affiliated with Toronto FC or BMO Field. Winner will be selected randomly from all eligible entries received by July 12, 2025. Must be 18+ to enter.",
     "organizerLogoUrl": "https://dtzulyujzhqiu.cloudfront.net/remaxbannerrealestate6803/profiles/1744311604_100431254_OfficeLogo_cropped.jpg",
     "secondaryLogoUrl": "https://scarlett-public-prod-s3-bucket.s3.ca-central-1.amazonaws.com/website_builder/SMG/AgentPicture/7549c0e0-2c5d-4d91-b3b7-71c73f7ccff9.png",
     "secondaryLogoAlt": "",
