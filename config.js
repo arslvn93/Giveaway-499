@@ -145,11 +145,11 @@ const config = {
     },
     "subtitle": "Enter your details below for a chance at this VIP soccer day for your family!",
     "entryCountText": "Many families across Toronto have already entered don't wait and miss your chance!",
-    "socialSharePrompt": "Know another family who\u0019d love this? Share this giveaway with them:"
+    "socialSharePrompt": "Know another family who'd love this? Share this giveaway with them:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751993401873_0",
+      "id": "q_auto_1751993417910_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993401873_1",
+      "id": "q_auto_1751993417910_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993401873_2",
+      "id": "q_auto_1751993417910_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -215,7 +215,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993401873_3",
+      "id": "q_auto_1751993417910_3",
       "questionText": "Is your mortgage up for renewal in the next:",
       "options": [
         {
