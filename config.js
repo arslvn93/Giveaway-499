@@ -82,7 +82,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You're In!",
-        "description": "That's it! You're entered. Winner will be picked July 7th and notified by email."
+        "description": "That's it! You're entered. Winner will be picked July 12th and notified by email."
       }
     ],
     "highlights": [
@@ -131,11 +131,11 @@ const config = {
     ],
     "fairSelectionInfo": {
       "title": "Random Winner Selection",
-      "text": "Every entry has an equal shot. Winner is picked at random after the entry period closes \u0013 no tricks, just fun and fairness!"
+      "text": "Every entry has an equal shot. Winner is picked at random after the entry period closes no tricks, just fun and fairness!"
     },
     "importantNotice": {
       "title": "Don\u0019t Miss Your Chance!",
-      "text": "The winner will get an email from Anthony Caputo after the draw on July 7. Check your inbox and spam so you don\u0019t miss our message!"
+      "text": "The winner will get an email from Anthony Caputo after the draw on July 12th. Check your inbox and spam so you don\u0019t miss our message!"
     }
   },
   "entryForm": {
@@ -149,7 +149,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751993348613_0",
+      "id": "q_auto_1751993377278_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993348614_1",
+      "id": "q_auto_1751993377278_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993348614_2",
+      "id": "q_auto_1751993377278_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -215,7 +215,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993348614_3",
+      "id": "q_auto_1751993377278_3",
       "questionText": "Is your mortgage up for renewal in the next:",
       "options": [
         {
