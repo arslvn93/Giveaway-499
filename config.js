@@ -14,8 +14,8 @@ const config = {
     "entryFormCtaText": "Enter My Family Now!",
     "name": "TFC VIP Family Soccer Experience",
     "successModalHeaderText": "You're In the Game!",
-    "successModalMainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 7, and we\u0019ll email you if you win. Good luck to your family!",
-    "successModalEmailPrompt": "Stay tuned to your email on July 7  that's when we announce our lucky winner!"
+    "successModalMainMessage": "Your entry for the <strong>TFC VIP Family Soccer Experience</strong> is complete. The big draw happens July 12, and we'll email you if you win. Good luck to your family!",
+    "successModalEmailPrompt": "Stay tuned to your email on July 12, that's when we announce our lucky winner!"
   },
   "settings": {
     "confettiColors": [],
@@ -144,12 +144,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-499.netlify.app%2Fadmin&text=Win%204%20TFC%20Field%20Level%20Tickets%20%2B%20Dinner%20%E2%80%93%20Enter%20the%20giveaway%20now!"
     },
     "subtitle": "Enter your details below for a chance at this VIP soccer day for your family!",
-    "entryCountText": "Many families across Toronto have already entered \u0013don\u0019t wait and miss your chance!",
+    "entryCountText": "Many families across Toronto have already entered don't wait and miss your chance!",
     "socialSharePrompt": "Know another family who\u0019d love this? Share this giveaway with them:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751993377278_0",
+      "id": "q_auto_1751993401873_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993377278_1",
+      "id": "q_auto_1751993401873_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993377278_2",
+      "id": "q_auto_1751993401873_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -215,7 +215,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751993377278_3",
+      "id": "q_auto_1751993401873_3",
       "questionText": "Is your mortgage up for renewal in the next:",
       "options": [
         {
