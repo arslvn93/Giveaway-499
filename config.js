@@ -8,8 +8,8 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>4 Toronto FC Field Level Tickets</span> $1,500 Family Giveaway! ",
     "heroSubheadline": "Give your family an amazing day at the stadium watch Toronto FC up close vs. Columbus Crew on August 16, 2025 at 7:30 PM, enjoy family time with Premium seats. This experience could be yours. Hurry \u0013entry closes July 7!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/k3kkwpmxcsrm80cqshgv2tq5k8.jpg",
-    "promotionDates": "Enter July 4 to July 7, 2025. Winner drawn July 7.",
-    "endDate": "2025-07-08T06:59:00.000Z",
+    "promotionDates": "Enter July 4 to July 11, 2025. Winner drawn July 12.",
+    "endDate": "2025-07-12T06:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Family Now!",
     "name": "TFC VIP Family Soccer Experience",
@@ -149,7 +149,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1751664938083_0",
+      "id": "q_auto_1751993348613_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751664938083_1",
+      "id": "q_auto_1751993348614_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751664938083_2",
+      "id": "q_auto_1751993348614_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -215,7 +215,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1751664938083_3",
+      "id": "q_auto_1751993348614_3",
       "questionText": "Is your mortgage up for renewal in the next:",
       "options": [
         {
