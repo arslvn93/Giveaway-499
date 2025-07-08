@@ -149,7 +149,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752003610720_0",
+      "id": "q_auto_1752003670054_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -171,7 +171,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752003610720_1",
+      "id": "q_auto_1752003670054_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -193,7 +193,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752003610720_2",
+      "id": "q_auto_1752003670054_2",
       "questionText": "How would you describe your current living situation?",
       "options": [
         {
@@ -215,7 +215,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752003610720_3",
+      "id": "q_auto_1752003670054_3",
       "questionText": "Is your mortgage up for renewal in the next:",
       "options": [
         {
@@ -261,7 +261,7 @@ const config = {
       "email": "anthony@thecaputogroup.ca"
     },
     "footerDisclaimer": "This giveaway is not sponsored by or affiliated with Toronto FC or BMO Field. Winner will be selected randomly from all eligible entries received by July 12, 2025. Must be 18+ to enter.",
-    "organizerLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTee3aOPG1PvalW-_-FRZemxt5HJkIoxO4aAA&s",
+    "organizerLogoUrl": "https://img.favpng.com/9/10/12/logo-re-max-llc-re-max-valley-real-estate-brand-png-favpng-hbxHDqkB2qKmwmHNiSMcjiRhe.jpg",
     "secondaryLogoUrl": "https://scarlett-public-prod-s3-bucket.s3.ca-central-1.amazonaws.com/website_builder/SMG/AgentPicture/7549c0e0-2c5d-4d91-b3b7-71c73f7ccff9.png",
     "secondaryLogoAlt": "",
     "organizerName": "RE/MAX Experts ",
